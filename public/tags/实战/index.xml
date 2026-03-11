@@ -1,0 +1,61 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>实战 - 标签 - Max Sun Blog</title>
+        <link>https://yourname.github.io/tags/%E5%AE%9E%E6%88%98/</link>
+        <description>实战 - 标签 - Max Sun Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Wed, 11 Mar 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://yourname.github.io/tags/%E5%AE%9E%E6%88%98/" rel="self" type="application/rss+xml" /><item>
+    <title>缠论实战：一买与三买</title>
+    <link>https://yourname.github.io/posts/2026/03/%E7%BC%A0%E8%AE%BA%E5%AE%9E%E6%88%98%E4%B8%80%E4%B9%B0%E4%B8%8E%E4%B8%89%E4%B9%B0/</link>
+    <pubDate>Wed, 11 Mar 2026 00:00:00 &#43;0000</pubDate>
+    <author>Max Sun</author>
+    <guid>https://yourname.github.io/posts/2026/03/%E7%BC%A0%E8%AE%BA%E5%AE%9E%E6%88%98%E4%B8%80%E4%B9%B0%E4%B8%8E%E4%B8%89%E4%B9%B0/</guid>
+    <description><![CDATA[<h1 id="实战技巧一买与三买">实战技巧：一买与三买</h1>
+<p>缠论最实用的地方在于给出明确的买卖点。</p>
+<h2 id="第一类买点一买">第一类买点（一买）</h2>
+<p><strong>下跌趋势结束后，第一个底分型确认的点位</strong></p>
+<h3 id="特征">特征：</h3>
+<ul>
+<li>出现在下跌趋势的背驰段</li>
+<li>预期收益最大，但确定性较低</li>
+<li>需要严格的止损</li>
+</ul>
+<h2 id="第三类买点三买">第三类买点（三买）</h2>
+<p><strong>突破中枢后，回调不进入中枢的点位</strong></p>
+<h3 id="特征-1">特征：</h3>
+<ul>
+<li>确定性比一买高</li>
+<li>成功率较高</li>
+<li>是主升浪的起点</li>
+</ul>
+<h2 id="一买-vs-三买">一买 vs 三买</h2>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th>一买</th>
+          <th>三买</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>确定性</td>
+          <td>低</td>
+          <td>高</td>
+      </tr>
+      <tr>
+          <td>收益</td>
+          <td>高</td>
+          <td>中</td>
+      </tr>
+      <tr>
+          <td>风险</td>
+          <td>高</td>
+          <td>低</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<p><strong>我的经验</strong>：初学者从三买开始练习，积累经验后再尝试一买。💰</p>]]></description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,72 @@
+baseURL: "http://localhost:1317/"
+languageCode: "zh-cn"
+title: "Max Sun Blog"
+theme: "LoveIt"
+
+defaultContentLanguage: zh-cn
+
+# SEO 配置
+enableRobotsTXT: true
+enableGitInfo: false
+
+params:
+  subtitle: "投资分享"
+  title: "Max Sun Blog"
+  description: "Max Sun的投资经验分享博客，记录缠论学习心得与投资体会"
+  author:
+    name: "Max Sun"
+    link: "https://github.com"
+  
+  # 网站SEO
+  keywords: ["投资", "缠论", "股票", "理财"]
+  
+  # Open Graph
+  enableOpenGraph: true
+  enableTwitterCards: true
+  
+  # 文章详情页
+  showWordCount: true
+  showReadingTime: true
+
+menu:
+  main:
+    - name: 首页
+      url: /
+      weight: 1
+    - name: 文章
+      url: /posts/
+      weight: 2
+    - name: 关于
+      url: /about/
+      weight: 3
+
+# 永久链接设置
+permalinks:
+  posts: /posts/:year/:month/:slug/
+
+# 中文化
+defaultContentLanguageInSubdir: true
+
+languages:
+  zh-cn:
+    languageName: 中文
+    languageCode: zh-cn
+    title: Max Sun Blog
+    description: Max Sun的投资经验分享博客
+    params:
+      title: Max Sun Blog
+      subtitle: 投资分享
+      description: Max Sun的投资经验分享博客
+      brand: Max Sun Blog
+      keywords: ["投资", "缠论", "股票", "理财"]
+    menu:
+      main:
+        - name: 首页
+          url: /
+          weight: 1
+        - name: 文章
+          url: /posts/
+          weight: 2
+        - name: 关于
+          url: /about/
+          weight: 3
