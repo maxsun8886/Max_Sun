@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: http://localhost:1317/zh-cn/sitemap.xml
+Sitemap: https://maxsun8886.github.io/zh-cn/sitemap.xml
